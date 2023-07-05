@@ -18,12 +18,10 @@ Este repositório contém um token de compra de passagem para o transporte públ
 
 O token de compra de passagem para transporte público foi desenvolvido utilizando as seguintes tecnologias:
 
-- **Linguagem de Programação:** [Python](https://www.python.org/)
+- **Linguagem:** [HTML]([https://www.python.org/](https://developer.mozilla.org/en-US/docs/Web/HTML))
 - **Banco de Dados:** [SQLite](https://www.sqlite.org/)
-- **Framework Web:** [Django](https://www.djangoproject.com/)
-- **API de Pagamento:** [Stripe](https://stripe.com/)
+- **Framework Web:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - **API de Localização:** [Google Maps API](https://developers.google.com/maps)
-- **API de Notificações:** [Twilio](https://www.twilio.com/)
 
 ## Como Utilizar
 
